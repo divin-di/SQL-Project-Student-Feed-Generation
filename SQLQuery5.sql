@@ -1,0 +1,1 @@
+select *, len(phone) from feed_1
