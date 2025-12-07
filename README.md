@@ -1,4 +1,4 @@
-# Advanced-SQL-Project
+# SQL-Project(Student_feed_geneartion)
 The goal of this project is to generate random student feed data into three separate feeds (Feed-1, Feed-2, Feed-3), automate the data generation, identify and cleanse duplicate entries, update data with unique rows, compare feeds, and validate the results. The process is built entirely in SQL Server with automation and testing using SQL.
 
 Requirements:
